@@ -1,24 +1,25 @@
-## Webpack
----
+# **Chistes Chuck Norris | Request JavaScript**
 
-Este es el proyecto inicial para crear aplicaciones **webpack**.
+![Chistes Chuck Norris](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601945823/chistes-chuck-norris_ocga44.png "Chistes Chuck Norris")
 
-### Como utilizar la base de webpack
+Ejemplo basico de peticiones HTTP.
 
-> - Descargar el repositorio.
-> - Reconstruir los modulos de **Node**.
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
-```sh
-npm install
-```
-> - Construir el **Build** de producción.
+> -   Framework **Bootstrap**
+> -   JavaScript ES6
 
-```sh
-npm run build
-```
+### **Caracterisiticas**
 
-> - Construir el **Build** de desarrollo.
+> -   Peticiones HTTP
+> -   Uso de Fetch.
+> -   Async.
+> -   Await.
+> -   Subida de archivos a Cloudinary.
+> -   Manipulación del DOM.
 
-```sh
-npm run build:dev
-```
+### Autor
+
+Desarrollado en el curso _**Udemy | JavaScript Moderno | Fernando Herrera**_
+
+Modificaciones basicas y realización de la practica: _**José Saldivar**_
