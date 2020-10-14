@@ -1,6 +1,6 @@
 # **Chistes Chuck Norris | Request JavaScript**
 
-![Chistes Chuck Norris](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601945823/chistes-chuck-norris_ocga44.png "Chistes Chuck Norris")
+![Chistes Chuck Norris](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601945823/GitHub/chistes-chuck-norris_ocga44.png "Chistes Chuck Norris")
 
 Ejemplo basico de peticiones HTTP.
 
